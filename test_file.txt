@@ -1,0 +1,1 @@
+This is a sample text file. The purpose is to learn the hadoop concepts and for map reduce program.
